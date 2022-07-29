@@ -9,7 +9,7 @@ namespace DataAccess.Concrete.EntityFramework
 {
     public class EfProductDal : IProductDal
     {
-        //Nuget
+        //Nugett
         public void Add(Product entity)
         {
             throw new NotImplementedException();

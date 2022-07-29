@@ -19,5 +19,10 @@ namespace Business.Concrete
         {
            return _productDal.GetAll();
         }
+
+        public void bos(int a)
+        {
+            
+        }
     }
 }
