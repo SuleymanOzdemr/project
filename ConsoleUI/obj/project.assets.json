@@ -5659,11 +5659,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Mralp\\source\\repos\\MyFinalProject\\ConsoleUI\\ConsoleUI.csproj",
+      "projectUniqueName": "C:\\Users\\Mralp\\Source\\Repos\\project\\ConsoleUI\\ConsoleUI.csproj",
       "projectName": "ConsoleUI",
-      "projectPath": "C:\\Users\\Mralp\\source\\repos\\MyFinalProject\\ConsoleUI\\ConsoleUI.csproj",
+      "projectPath": "C:\\Users\\Mralp\\Source\\Repos\\project\\ConsoleUI\\ConsoleUI.csproj",
       "packagesPath": "C:\\Users\\Mralp\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Mralp\\source\\repos\\MyFinalProject\\ConsoleUI\\obj\\",
+      "outputPath": "C:\\Users\\Mralp\\Source\\Repos\\project\\ConsoleUI\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -5683,8 +5683,8 @@
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
           "projectReferences": {
-            "C:\\Users\\Mralp\\source\\repos\\MyFinalProject\\Business\\Business.csproj": {
-              "projectPath": "C:\\Users\\Mralp\\source\\repos\\MyFinalProject\\Business\\Business.csproj"
+            "C:\\Users\\Mralp\\Source\\Repos\\project\\Business\\Business.csproj": {
+              "projectPath": "C:\\Users\\Mralp\\Source\\Repos\\project\\Business\\Business.csproj"
             }
           }
         }

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Mralp\\source\\repos\\MyFinalProject\\DataAccess\\DataAccess.csproj": {}
+    "C:\\Users\\Mralp\\Source\\Repos\\project\\DataAccess\\DataAccess.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Mralp\\source\\repos\\MyFinalProject\\DataAccess\\DataAccess.csproj": {
+    "C:\\Users\\Mralp\\Source\\Repos\\project\\DataAccess\\DataAccess.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Mralp\\source\\repos\\MyFinalProject\\DataAccess\\DataAccess.csproj",
+        "projectUniqueName": "C:\\Users\\Mralp\\Source\\Repos\\project\\DataAccess\\DataAccess.csproj",
         "projectName": "DataAccess",
-        "projectPath": "C:\\Users\\Mralp\\source\\repos\\MyFinalProject\\DataAccess\\DataAccess.csproj",
+        "projectPath": "C:\\Users\\Mralp\\Source\\Repos\\project\\DataAccess\\DataAccess.csproj",
         "packagesPath": "C:\\Users\\Mralp\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Mralp\\source\\repos\\MyFinalProject\\DataAccess\\obj\\",
+        "outputPath": "C:\\Users\\Mralp\\Source\\Repos\\project\\DataAccess\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -31,8 +31,8 @@
           "netcoreapp3.1": {
             "targetAlias": "netcoreapp3.1",
             "projectReferences": {
-              "C:\\Users\\Mralp\\source\\repos\\MyFinalProject\\Entitiess\\Entities.csproj": {
-                "projectPath": "C:\\Users\\Mralp\\source\\repos\\MyFinalProject\\Entitiess\\Entities.csproj"
+              "C:\\Users\\Mralp\\Source\\Repos\\project\\Entitiess\\Entities.csproj": {
+                "projectPath": "C:\\Users\\Mralp\\Source\\Repos\\project\\Entitiess\\Entities.csproj"
               }
             }
           }
@@ -71,14 +71,14 @@
         }
       }
     },
-    "C:\\Users\\Mralp\\source\\repos\\MyFinalProject\\Entitiess\\Entities.csproj": {
+    "C:\\Users\\Mralp\\Source\\Repos\\project\\Entitiess\\Entities.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Mralp\\source\\repos\\MyFinalProject\\Entitiess\\Entities.csproj",
+        "projectUniqueName": "C:\\Users\\Mralp\\Source\\Repos\\project\\Entitiess\\Entities.csproj",
         "projectName": "Entities",
-        "projectPath": "C:\\Users\\Mralp\\source\\repos\\MyFinalProject\\Entitiess\\Entities.csproj",
+        "projectPath": "C:\\Users\\Mralp\\Source\\Repos\\project\\Entitiess\\Entities.csproj",
         "packagesPath": "C:\\Users\\Mralp\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Mralp\\source\\repos\\MyFinalProject\\Entitiess\\obj\\",
+        "outputPath": "C:\\Users\\Mralp\\Source\\Repos\\project\\Entitiess\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
