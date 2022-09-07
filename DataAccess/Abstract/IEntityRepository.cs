@@ -9,9 +9,9 @@ namespace DataAccess.Abstract
 {
     // generic repository design pattern 
     // generic constraint
-    // class : referans tip
+    // class : referans tip olabilir.
     // virgülden sonra IEntity kullanıldı bu sayede Entities katmanında bulunan refereans tipler oluşturuldu.
-    // IEntity : IEntity olabilir veya IEntity şmplemente eden bir nesne olabilir.
+    // IEntity : IEntity olabilir veya IEntity implemente eden bir nesne olabilir.
     // new () : new()'lenebilir olmalı. bu sayede IEntity katmanından yararlandık ve IEntity yazımını engellemiş olduk
     // çünkü IEntity new()'lenemez..
 

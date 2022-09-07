@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Mralp\\Source\\Repos\\project\\Entitiess\\Entities.csproj": {}
+    "C:\\Users\\Mralp\\source\\repos\\SuleymanOzdemr\\project\\Entitiess\\Entities.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Mralp\\Source\\Repos\\project\\Entitiess\\Entities.csproj": {
+    "C:\\Users\\Mralp\\source\\repos\\SuleymanOzdemr\\project\\Entitiess\\Entities.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Mralp\\Source\\Repos\\project\\Entitiess\\Entities.csproj",
+        "projectUniqueName": "C:\\Users\\Mralp\\source\\repos\\SuleymanOzdemr\\project\\Entitiess\\Entities.csproj",
         "projectName": "Entities",
-        "projectPath": "C:\\Users\\Mralp\\Source\\Repos\\project\\Entitiess\\Entities.csproj",
+        "projectPath": "C:\\Users\\Mralp\\source\\repos\\SuleymanOzdemr\\project\\Entitiess\\Entities.csproj",
         "packagesPath": "C:\\Users\\Mralp\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Mralp\\Source\\Repos\\project\\Entitiess\\obj\\",
+        "outputPath": "C:\\Users\\Mralp\\Source\\Repos\\SuleymanOzdemr\\project\\Entitiess\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
