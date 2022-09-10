@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Mralp\\source\\repos\\SuleymanOzdemr\\project\\ConsoleUI\\ConsoleUI.csproj": {}
+    "C:\\Users\\CasperPc3\\source\\repos\\SuleymanOzdemr\\project\\ConsoleUI\\ConsoleUI.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Mralp\\source\\repos\\SuleymanOzdemr\\project\\Business\\Business.csproj": {
+    "C:\\Users\\CasperPc3\\source\\repos\\SuleymanOzdemr\\project\\Business\\Business.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Mralp\\source\\repos\\SuleymanOzdemr\\project\\Business\\Business.csproj",
+        "projectUniqueName": "C:\\Users\\CasperPc3\\source\\repos\\SuleymanOzdemr\\project\\Business\\Business.csproj",
         "projectName": "Business",
-        "projectPath": "C:\\Users\\Mralp\\source\\repos\\SuleymanOzdemr\\project\\Business\\Business.csproj",
-        "packagesPath": "C:\\Users\\Mralp\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Mralp\\source\\repos\\SuleymanOzdemr\\project\\Business\\obj\\",
+        "projectPath": "C:\\Users\\CasperPc3\\source\\repos\\SuleymanOzdemr\\project\\Business\\Business.csproj",
+        "packagesPath": "C:\\Users\\CasperPc3\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\CasperPc3\\source\\repos\\SuleymanOzdemr\\project\\Business\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\Mralp\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\CasperPc3\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -31,11 +31,11 @@
           "netcoreapp3.1": {
             "targetAlias": "netcoreapp3.1",
             "projectReferences": {
-              "C:\\Users\\Mralp\\source\\repos\\SuleymanOzdemr\\project\\DataAccess\\DataAccess.csproj": {
-                "projectPath": "C:\\Users\\Mralp\\source\\repos\\SuleymanOzdemr\\project\\DataAccess\\DataAccess.csproj"
+              "C:\\Users\\CasperPc3\\source\\repos\\SuleymanOzdemr\\project\\DataAccess\\DataAccess.csproj": {
+                "projectPath": "C:\\Users\\CasperPc3\\source\\repos\\SuleymanOzdemr\\project\\DataAccess\\DataAccess.csproj"
               },
-              "C:\\Users\\Mralp\\source\\repos\\SuleymanOzdemr\\project\\Entitiess\\Entities.csproj": {
-                "projectPath": "C:\\Users\\Mralp\\source\\repos\\SuleymanOzdemr\\project\\Entitiess\\Entities.csproj"
+              "C:\\Users\\CasperPc3\\source\\repos\\SuleymanOzdemr\\project\\Entitiess\\Entities.csproj": {
+                "projectPath": "C:\\Users\\CasperPc3\\source\\repos\\SuleymanOzdemr\\project\\Entitiess\\Entities.csproj"
               }
             }
           }
@@ -64,24 +64,24 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.302\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.303\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\Mralp\\source\\repos\\SuleymanOzdemr\\project\\ConsoleUI\\ConsoleUI.csproj": {
+    "C:\\Users\\CasperPc3\\source\\repos\\SuleymanOzdemr\\project\\ConsoleUI\\ConsoleUI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Mralp\\source\\repos\\SuleymanOzdemr\\project\\ConsoleUI\\ConsoleUI.csproj",
+        "projectUniqueName": "C:\\Users\\CasperPc3\\source\\repos\\SuleymanOzdemr\\project\\ConsoleUI\\ConsoleUI.csproj",
         "projectName": "ConsoleUI",
-        "projectPath": "C:\\Users\\Mralp\\source\\repos\\SuleymanOzdemr\\project\\ConsoleUI\\ConsoleUI.csproj",
-        "packagesPath": "C:\\Users\\Mralp\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Mralp\\source\\repos\\SuleymanOzdemr\\project\\ConsoleUI\\obj\\",
+        "projectPath": "C:\\Users\\CasperPc3\\source\\repos\\SuleymanOzdemr\\project\\ConsoleUI\\ConsoleUI.csproj",
+        "packagesPath": "C:\\Users\\CasperPc3\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\CasperPc3\\source\\repos\\SuleymanOzdemr\\project\\ConsoleUI\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\Mralp\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\CasperPc3\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -95,8 +95,8 @@
           "netcoreapp3.1": {
             "targetAlias": "netcoreapp3.1",
             "projectReferences": {
-              "C:\\Users\\Mralp\\source\\repos\\SuleymanOzdemr\\project\\Business\\Business.csproj": {
-                "projectPath": "C:\\Users\\Mralp\\source\\repos\\SuleymanOzdemr\\project\\Business\\Business.csproj"
+              "C:\\Users\\CasperPc3\\source\\repos\\SuleymanOzdemr\\project\\Business\\Business.csproj": {
+                "projectPath": "C:\\Users\\CasperPc3\\source\\repos\\SuleymanOzdemr\\project\\Business\\Business.csproj"
               }
             }
           }
@@ -125,24 +125,87 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.302\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.303\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\Mralp\\source\\repos\\SuleymanOzdemr\\project\\DataAccess\\DataAccess.csproj": {
+    "C:\\Users\\CasperPc3\\source\\repos\\SuleymanOzdemr\\project\\Core\\Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Mralp\\source\\repos\\SuleymanOzdemr\\project\\DataAccess\\DataAccess.csproj",
-        "projectName": "DataAccess",
-        "projectPath": "C:\\Users\\Mralp\\source\\repos\\SuleymanOzdemr\\project\\DataAccess\\DataAccess.csproj",
-        "packagesPath": "C:\\Users\\Mralp\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Mralp\\source\\repos\\SuleymanOzdemr\\project\\DataAccess\\obj\\",
+        "projectUniqueName": "C:\\Users\\CasperPc3\\source\\repos\\SuleymanOzdemr\\project\\Core\\Core.csproj",
+        "projectName": "Core",
+        "projectPath": "C:\\Users\\CasperPc3\\source\\repos\\SuleymanOzdemr\\project\\Core\\Core.csproj",
+        "packagesPath": "C:\\Users\\CasperPc3\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\CasperPc3\\source\\repos\\SuleymanOzdemr\\project\\Core\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\Mralp\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\CasperPc3\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[3.1.11, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.303\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\CasperPc3\\source\\repos\\SuleymanOzdemr\\project\\DataAccess\\DataAccess.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\CasperPc3\\source\\repos\\SuleymanOzdemr\\project\\DataAccess\\DataAccess.csproj",
+        "projectName": "DataAccess",
+        "projectPath": "C:\\Users\\CasperPc3\\source\\repos\\SuleymanOzdemr\\project\\DataAccess\\DataAccess.csproj",
+        "packagesPath": "C:\\Users\\CasperPc3\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\CasperPc3\\source\\repos\\SuleymanOzdemr\\project\\DataAccess\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\CasperPc3\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -156,8 +219,11 @@
           "netcoreapp3.1": {
             "targetAlias": "netcoreapp3.1",
             "projectReferences": {
-              "C:\\Users\\Mralp\\source\\repos\\SuleymanOzdemr\\project\\Entitiess\\Entities.csproj": {
-                "projectPath": "C:\\Users\\Mralp\\source\\repos\\SuleymanOzdemr\\project\\Entitiess\\Entities.csproj"
+              "C:\\Users\\CasperPc3\\source\\repos\\SuleymanOzdemr\\project\\Core\\Core.csproj": {
+                "projectPath": "C:\\Users\\CasperPc3\\source\\repos\\SuleymanOzdemr\\project\\Core\\Core.csproj"
+              },
+              "C:\\Users\\CasperPc3\\source\\repos\\SuleymanOzdemr\\project\\Entitiess\\Entities.csproj": {
+                "projectPath": "C:\\Users\\CasperPc3\\source\\repos\\SuleymanOzdemr\\project\\Entitiess\\Entities.csproj"
               }
             }
           }
@@ -192,24 +258,24 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.302\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.303\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\Mralp\\source\\repos\\SuleymanOzdemr\\project\\Entitiess\\Entities.csproj": {
+    "C:\\Users\\CasperPc3\\source\\repos\\SuleymanOzdemr\\project\\Entitiess\\Entities.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Mralp\\source\\repos\\SuleymanOzdemr\\project\\Entitiess\\Entities.csproj",
+        "projectUniqueName": "C:\\Users\\CasperPc3\\source\\repos\\SuleymanOzdemr\\project\\Entitiess\\Entities.csproj",
         "projectName": "Entities",
-        "projectPath": "C:\\Users\\Mralp\\source\\repos\\SuleymanOzdemr\\project\\Entitiess\\Entities.csproj",
-        "packagesPath": "C:\\Users\\Mralp\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Mralp\\Source\\Repos\\SuleymanOzdemr\\project\\Entitiess\\obj\\",
+        "projectPath": "C:\\Users\\CasperPc3\\source\\repos\\SuleymanOzdemr\\project\\Entitiess\\Entities.csproj",
+        "packagesPath": "C:\\Users\\CasperPc3\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\CasperPc3\\source\\repos\\SuleymanOzdemr\\project\\Entitiess\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\Mralp\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\CasperPc3\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -222,7 +288,11 @@
         "frameworks": {
           "netcoreapp3.1": {
             "targetAlias": "netcoreapp3.1",
-            "projectReferences": {}
+            "projectReferences": {
+              "C:\\Users\\CasperPc3\\source\\repos\\SuleymanOzdemr\\project\\Core\\Core.csproj": {
+                "projectPath": "C:\\Users\\CasperPc3\\source\\repos\\SuleymanOzdemr\\project\\Core\\Core.csproj"
+              }
+            }
           }
         },
         "warningProperties": {
@@ -249,7 +319,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.302\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.303\\RuntimeIdentifierGraph.json"
         }
       }
     }

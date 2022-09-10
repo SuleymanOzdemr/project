@@ -1,9 +1,6 @@
 {
   "ExpandedNodes": [
-    "",
-    "\\DataAccess",
-    "\\DataAccess\\Concrete",
-    "\\DataAccess\\Concrete\\InMemory"
+    ""
   ],
   "PreviewInSolutionExplorer": false
 }

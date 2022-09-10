@@ -1482,10 +1482,24 @@
           "bin/placeholder/Business.dll": {}
         }
       },
+      "Core/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.1",
+        "dependencies": {
+          "Microsoft.EntityFrameworkCore.SqlServer": "3.1.11"
+        },
+        "compile": {
+          "bin/placeholder/Core.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Core.dll": {}
+        }
+      },
       "DataAccess/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v3.1",
         "dependencies": {
+          "Core": "1.0.0",
           "Entities": "1.0.0",
           "Microsoft.EntityFrameworkCore.SqlServer": "3.1.11"
         },
@@ -1499,6 +1513,9 @@
       "Entities/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v3.1",
+        "dependencies": {
+          "Core": "1.0.0"
+        },
         "compile": {
           "bin/placeholder/Entities.dll": {}
         },
@@ -5636,6 +5653,11 @@
       "path": "../Business/Business.csproj",
       "msbuildProject": "../Business/Business.csproj"
     },
+    "Core/1.0.0": {
+      "type": "project",
+      "path": "../Core/Core.csproj",
+      "msbuildProject": "../Core/Core.csproj"
+    },
     "DataAccess/1.0.0": {
       "type": "project",
       "path": "../DataAccess/DataAccess.csproj",
@@ -5653,23 +5675,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Mralp\\.nuget\\packages\\": {},
+    "C:\\Users\\CasperPc3\\.nuget\\packages\\": {},
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Mralp\\source\\repos\\SuleymanOzdemr\\project\\ConsoleUI\\ConsoleUI.csproj",
+      "projectUniqueName": "C:\\Users\\CasperPc3\\source\\repos\\SuleymanOzdemr\\project\\ConsoleUI\\ConsoleUI.csproj",
       "projectName": "ConsoleUI",
-      "projectPath": "C:\\Users\\Mralp\\source\\repos\\SuleymanOzdemr\\project\\ConsoleUI\\ConsoleUI.csproj",
-      "packagesPath": "C:\\Users\\Mralp\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Mralp\\Source\\Repos\\SuleymanOzdemr\\project\\ConsoleUI\\obj\\",
+      "projectPath": "C:\\Users\\CasperPc3\\source\\repos\\SuleymanOzdemr\\project\\ConsoleUI\\ConsoleUI.csproj",
+      "packagesPath": "C:\\Users\\CasperPc3\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\CasperPc3\\source\\repos\\SuleymanOzdemr\\project\\ConsoleUI\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "C:\\Users\\Mralp\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\CasperPc3\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -5683,8 +5705,8 @@
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
           "projectReferences": {
-            "C:\\Users\\Mralp\\source\\repos\\SuleymanOzdemr\\project\\Business\\Business.csproj": {
-              "projectPath": "C:\\Users\\Mralp\\source\\repos\\SuleymanOzdemr\\project\\Business\\Business.csproj"
+            "C:\\Users\\CasperPc3\\source\\repos\\SuleymanOzdemr\\project\\Business\\Business.csproj": {
+              "projectPath": "C:\\Users\\CasperPc3\\source\\repos\\SuleymanOzdemr\\project\\Business\\Business.csproj"
             }
           }
         }
@@ -5713,7 +5735,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.302\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.303\\RuntimeIdentifierGraph.json"
       }
     }
   }

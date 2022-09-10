@@ -1468,10 +1468,24 @@
           "lib/netstandard1.3/System.Xml.XmlSerializer.dll": {}
         }
       },
+      "Core/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.1",
+        "dependencies": {
+          "Microsoft.EntityFrameworkCore.SqlServer": "3.1.11"
+        },
+        "compile": {
+          "bin/placeholder/Core.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Core.dll": {}
+        }
+      },
       "DataAccess/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v3.1",
         "dependencies": {
+          "Core": "1.0.0",
           "Entities": "1.0.0",
           "Microsoft.EntityFrameworkCore.SqlServer": "3.1.11"
         },
@@ -1485,6 +1499,9 @@
       "Entities/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v3.1",
+        "dependencies": {
+          "Core": "1.0.0"
+        },
         "compile": {
           "bin/placeholder/Entities.dll": {}
         },
@@ -5617,6 +5634,11 @@
         "system.xml.xmlserializer.nuspec"
       ]
     },
+    "Core/1.0.0": {
+      "type": "project",
+      "path": "../Core/Core.csproj",
+      "msbuildProject": "../Core/Core.csproj"
+    },
     "DataAccess/1.0.0": {
       "type": "project",
       "path": "../DataAccess/DataAccess.csproj",
@@ -5635,23 +5657,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Mralp\\.nuget\\packages\\": {},
+    "C:\\Users\\CasperPc3\\.nuget\\packages\\": {},
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Mralp\\source\\repos\\SuleymanOzdemr\\project\\Business\\Business.csproj",
+      "projectUniqueName": "C:\\Users\\CasperPc3\\source\\repos\\SuleymanOzdemr\\project\\Business\\Business.csproj",
       "projectName": "Business",
-      "projectPath": "C:\\Users\\Mralp\\source\\repos\\SuleymanOzdemr\\project\\Business\\Business.csproj",
-      "packagesPath": "C:\\Users\\Mralp\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Mralp\\Source\\Repos\\SuleymanOzdemr\\project\\Business\\obj\\",
+      "projectPath": "C:\\Users\\CasperPc3\\source\\repos\\SuleymanOzdemr\\project\\Business\\Business.csproj",
+      "packagesPath": "C:\\Users\\CasperPc3\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\CasperPc3\\source\\repos\\SuleymanOzdemr\\project\\Business\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "C:\\Users\\Mralp\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\CasperPc3\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -5665,11 +5687,11 @@
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
           "projectReferences": {
-            "C:\\Users\\Mralp\\source\\repos\\SuleymanOzdemr\\project\\DataAccess\\DataAccess.csproj": {
-              "projectPath": "C:\\Users\\Mralp\\source\\repos\\SuleymanOzdemr\\project\\DataAccess\\DataAccess.csproj"
+            "C:\\Users\\CasperPc3\\source\\repos\\SuleymanOzdemr\\project\\DataAccess\\DataAccess.csproj": {
+              "projectPath": "C:\\Users\\CasperPc3\\source\\repos\\SuleymanOzdemr\\project\\DataAccess\\DataAccess.csproj"
             },
-            "C:\\Users\\Mralp\\source\\repos\\SuleymanOzdemr\\project\\Entitiess\\Entities.csproj": {
-              "projectPath": "C:\\Users\\Mralp\\source\\repos\\SuleymanOzdemr\\project\\Entitiess\\Entities.csproj"
+            "C:\\Users\\CasperPc3\\source\\repos\\SuleymanOzdemr\\project\\Entitiess\\Entities.csproj": {
+              "projectPath": "C:\\Users\\CasperPc3\\source\\repos\\SuleymanOzdemr\\project\\Entitiess\\Entities.csproj"
             }
           }
         }
@@ -5698,7 +5720,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.302\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.303\\RuntimeIdentifierGraph.json"
       }
     }
   }
